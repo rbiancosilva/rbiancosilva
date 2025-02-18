@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! 👋  
+I'm **Rafael Bianco**, a Junior Developer passionate about coding and technology.  
+I specialize in building integrations and microservices, leveraging the power of:  
 
-<!--
-**rbiancosilva/rbiancosilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🐍 **Python** for efficient scripting and backend logic.  
+- ☕ **Java** for robust enterprise solutions.  
+- 📨 **RabbitMQ** for seamless messaging and communication between services.  
 
-Here are some ideas to get you started:
+### 🚀 What I'm Working On:  
+- Developing scalable microservices to support complex business operations.  
+- Integrating various systems to streamline workflows and data exchange.  
+- Continuously learning and growing in the world of backend development and cloud computing.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Exploring:  
+- Advanced messaging patterns with RabbitMQ.  
+- Cloud-native solutions for deploying microservices.  
+
+### 📫 Let's Connect!  
+- [LinkedIn](https://www.linkedin.com/in/rafa-bianco/)  
